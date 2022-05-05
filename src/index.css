@@ -11,3 +11,20 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.contactImg {
+  width: 60px;
+}
+button {
+  margin: 20px;
+  background-color: rgb(213, 184, 255);
+  border: none;
+  border-radius: 5px;
+  padding: 5px;
+}
+table {
+  margin: 0 auto;
+  border: 1px solid grey;
+}
+td {
+  border: 1px solid grey;
+}
